@@ -1,0 +1,6 @@
+@Practicum_HostAddress = http://localhost:5233
+
+GET {{Practicum_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
